@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Objective
+Calculator provides simple mathematical operations. It performs basic calculations such as addition, subtraction, multiplication, and division.
+
 ## Available Scripts
 
 In the project directory, you can run:
